@@ -34,6 +34,7 @@ Implemente uma mini aplicação em **Next.js** que consume, obrigatoriamente, a 
 - Editar (`PUT /posts/{id}`) ou excluir (`DELETE /posts/{id}`) um post
 - Paginação ou busca simples na listagem
 - Componentes reutilizáveis (ex: `Card`, `FormInput`, `Layout`)
+- Design responsivo para diferentes tamanhos de tela
 
 ---
 
